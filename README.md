@@ -1,7 +1,7 @@
 # 🎥 Twitch - Force Source Quality (URL Change Only)
 
 A userscript for Tampermonkey that automatically forces Twitch streams to open at **Source (highest available)** quality every time you open a stream or switch between streams.  
-No longer will you have to open the settings menu every time.
+No longer will you have to open the settings menu every time. My version of the script uses the UI from the website and this way it works even when switching in between streams on the sidebar.
 
 ***
 
